@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329608157539",
+    "project_id": "delightapp-92074",
+    "storage_bucket": "delightapp-92074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329608157539:android:24e7760540a6ab634f5b56",
+        "android_client_info": {
+          "package_name": "com.example.delightapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329608157539-7sd9j4d7mrpjd33mb6o935o272028c1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATHCb_NklcYN1dDcMw3Bbd5xmmdZOYLf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329608157539-7sd9j4d7mrpjd33mb6o935o272028c1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
